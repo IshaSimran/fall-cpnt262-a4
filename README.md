@@ -2,7 +2,7 @@
 ## By Isha Simran
 - [GitHub Repo](https://github.com/IshaSimran/fall-cpnt262-a4)
 
-Okay so I am going to be very blunt. Backend javascript absolutley terrifies me. Like I could cry just thinking about it. So here's to trying my best and probably messing up.
+Okay so I am going to be very blunt. Backend javascript absolutley terrifies me. But here's to trying my best and probably messing up.
 
 ### Commands:
 This app is used to verify the speed of an airplane, boat or car. Or at least that is what I attempted to do.
